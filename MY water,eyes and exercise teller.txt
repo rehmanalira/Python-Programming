@@ -1,0 +1,75 @@
+I Drink Water at time-> 2020-07-27 16:57:45.553086
+I Drink Water at time-> 2020-07-27 17:05:53.036366
+I Drink Water at time-> 2020-07-27 17:05:59.976828
+I take the rest of eyes at time-> 2020-07-27 17:06:07.288033
+I Drink Water at time-> 2020-07-27 17:06:13.165525
+I Drink Water at time-> 2020-07-27 17:06:20.669812
+I Do exercise  at time-> 2020-07-27 17:06:30.437704
+I Drink Water at time-> 2020-07-27 17:06:32.938219
+I Drink Water at time-> 2020-07-27 17:08:31.621458
+I Drink Water at time-> 2020-07-27 17:08:41.149857
+I Drink Water at time-> 2020-07-27 17:10:02.260993
+I Drink Water at time-> 2020-07-27 17:16:18.436227
+I Drink Water at time-> 2020-07-27 17:17:39.814784
+I Drink Water at time-> 2020-07-27 17:17:46.227243
+I Drink Water at time-> 2020-07-27 17:44:05.639885
+I take the rest of eyes at time-> 2020-07-27 17:44:10.101215
+I Drink Water at time-> 2020-07-27 17:44:17.896264
+I Drink Water at time-> 2020-07-27 17:44:25.428339
+I Drink Water at time-> 2020-07-27 17:50:16.776857
+I Drink Water at time-> 2020-07-27 17:50:23.487789
+I take the rest of eyes at time-> 2020-07-27 17:50:31.313231
+I Drink Water at time-> 2020-07-27 17:50:37.918254
+I Do exercise  at time-> 2020-07-27 17:50:45.177040
+I Drink Water at time-> 2020-07-27 17:50:47.988390
+I Drink Water at time-> 2020-07-27 23:36:12.935132
+I Drink Water at time-> 2020-07-28 00:06:24.458318
+I Drink Water at time-> 2020-07-28 12:51:10.317299
+I Drink Water at time-> 2020-07-28 12:51:17.970989
+I Drink Water at time-> 2020-07-28 13:22:39.986807
+I Drink Water at time-> 2020-07-28 13:52:54.626667
+I Drink Water at time-> 2020-07-28 14:23:07.815663
+I take the rest of eyes at time-> 2020-07-28 14:52:43.146352
+I Drink Water at time-> 2020-07-28 14:55:34.567180
+I Drink Water at time-> 2020-07-28 15:25:44.766922
+I Do exercise  at time-> 2020-07-28 16:04:26.172378
+I Drink Water at time-> 2020-07-28 16:04:40.625347
+I Drink Water at time-> 2020-07-28 16:34:51.165746
+I take the rest of eyes at time-> 2020-07-28 16:52:50.973581
+I Drink Water at time-> 2020-07-28 17:04:56.351065
+I Drink Water at time-> 2020-07-28 17:35:33.930963
+I Drink Water at time-> 2020-07-28 18:06:40.344523
+I Drink Water at time-> 2020-07-28 18:58:17.891529
+I take the rest of eyes at time-> 2020-07-28 18:58:24.267817
+I Do exercise  at time-> 2020-07-28 19:04:29.755117
+I Drink Water at time-> 2020-07-28 19:28:22.607700
+I Drink Water at time-> 2020-07-28 19:58:45.581529
+I Drink Water at time-> 2020-07-28 20:31:48.740877
+I take the rest of eyes at time-> 2020-07-28 20:58:41.609696
+I Drink Water at time-> 2020-07-28 21:01:55.215618
+I Drink Water at time-> 2020-07-29 13:51:25.782165
+I Drink Water at time-> 2020-07-29 14:21:41.343566
+I Drink Water at time-> 2020-07-29 14:51:58.838231
+I take the rest of eyes at time-> 2020-07-29 15:21:25.251551
+I Drink Water at time-> 2020-07-29 15:22:06.929175
+I Drink Water at time-> 2020-07-29 15:54:17.814832
+I Do exercise  at time-> 2020-07-29 16:21:27.752172
+I Drink Water at time-> 2020-07-29 16:24:23.057989
+I Drink Water at time-> 2020-07-29 16:54:40.922993
+I take the rest of eyes at time-> 2020-07-29 17:26:29.314758
+I Drink Water at time-> 2020-07-29 17:26:31.566844
+I Drink Water at time-> 2020-07-29 18:29:12.554785
+I Drink Water at time-> 2020-07-29 18:59:17.485213
+I Drink Water at time-> 2020-08-06 16:22:13.906243
+I Drink Water at time-> 2020-08-06 18:10:49.954313
+I take the rest of eyes at time-> 2020-08-06 18:10:51.360742
+I Drink Water at time-> 2020-08-07 11:12:51.279577
+I Drink Water at time-> 2020-08-07 11:43:00.755908
+I Drink Water at time-> 2020-08-07 12:18:23.428141
+I take the rest of eyes at time-> 2020-08-07 12:42:54.088920
+I Drink Water at time-> 2020-08-07 12:48:32.983862
+I Drink Water at time-> 2020-08-07 13:18:38.747544
+I Do exercise  at time-> 2020-08-07 14:09:44.227383
+I Drink Water at time-> 2020-08-07 14:09:46.642548
+I Drink Water at time-> 2020-08-07 14:45:57.400969
+I take the rest of eyes at time-> 2020-08-07 14:46:00.006553
