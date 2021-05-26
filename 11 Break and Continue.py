@@ -25,7 +25,7 @@ while(True):
     print("Enter Number:")
     num=int(input())
     if(num==100 or num>100):
-        print("LORY 100 tu oty dab dita ee")
+        print("You Entered Number above then 100")
 
         break
 
